@@ -23,7 +23,7 @@ $ErrorActionPreference = 'Stop'
 # }
 
 
-$ProjectPath = "$env:USERPROFILE\Desktop\C++_learning"
+$ProjectPath = "$([Environment]::GetFolderPath('Desktop'))\C++_learning"
 
 $VSCodePath  = "$ProjectPath\.vscode"
 
