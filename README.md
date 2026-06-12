@@ -43,12 +43,13 @@ Setting up C++ on Windows is confusing — wrong paths, missing compilers, broke
 ---
 
 ## 📁 Project Structure
-```text 
+```text
 cpp-dev-setup/
-├── cpp-dev-setup.iss     # Inno Setup installer script
-├── assets/               # Icons and resources
-├── msys2_setup.ps1       # MSYS config script (auto-run by installer)
-├── final_setup.ps1       # Visual studio code config script (auto-run by installer)
+├── cpp-dev-setup.iss
+├── assets/
+├── msys2_setup.ps1
+├── final_setup.ps1
+├── LICENSE           
 └── README.md
 ```
 
