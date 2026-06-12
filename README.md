@@ -4,13 +4,23 @@
 [![Latest Release](https://img.shields.io/github/v/release/Zero-iinfinity/cpp-dev-setup)](https://github.com/Zero-iinfinity/cpp-dev-setup/releases)
 [![License](https://img.shields.io/github/license/Zero-iinfinity/cpp-dev-setup)](LICENSE)
 
-One-click C++ development environment setup for Windows.
-
-Setting up C++ on Windows is confusing — wrong paths, missing compilers, broken extensions. This installer handles everything automatically, so you can start writing code in minutes.
+<table>
+  <tr>
+    <td width="150">
+      <img src="assets/apple-touch-icon.png" width="150" height="150"/>
+    </td>
+    <td>
+      <h2>One-click C++ development environment setup for Windows.</h2>
+      Setting up C++ on Windows is confusing — wrong paths, missing compilers,
+      broken extensions. This installer handles everything automatically, so you
+      can start writing code in minutes.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📦 What It Installs
+## What It Installs
 
 | Component | Purpose |
 |---|---|
@@ -21,7 +31,7 @@ Setting up C++ on Windows is confusing — wrong paths, missing compilers, broke
 
 ---
 
-## 🖥️ Prerequisites
+## Prerequisites
 
 - Windows 10 or later (64-bit)
 - Internet connection during installation
@@ -42,7 +52,7 @@ Setting up C++ on Windows is confusing — wrong paths, missing compilers, broke
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 cpp-dev-setup/
 ├── cpp-dev-setup.iss
@@ -55,7 +65,7 @@ cpp-dev-setup/
 
 ---
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 **MSYS2 install fails**
 → Temporarily disable antivirus and retry
@@ -65,7 +75,7 @@ cpp-dev-setup/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
 
