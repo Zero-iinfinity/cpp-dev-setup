@@ -1,0 +1,7 @@
+*.exe
+*.pkg.tar.zst
+*.pkg.tar.zst.sig
+pkg/
+Output/
+vscode_setup.ps1
+releases/
