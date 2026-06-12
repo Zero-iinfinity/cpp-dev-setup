@@ -46,7 +46,6 @@ Setting up C++ on Windows is confusing — wrong paths, missing compilers, broke
 ```text 
 cpp-dev-setup/
 ├── cpp-dev-setup.iss     # Inno Setup installer script
-├── releases/             # Main cpp-dev-setup.exe file
 ├── assets/               # Icons and resources
 ├── msys2_setup.ps1       # MSYS config script (auto-run by installer)
 ├── final_setup.ps1       # Visual studio code config script (auto-run by installer)
